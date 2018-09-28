@@ -29,7 +29,22 @@
 .middle {
 	width: 80%;
 }
+table {
+    table-layout:fixed
+}
+th{
+	padding:15px
+}
 
-td, th{
+th.heading{
+	text-align: left
+}
+th.col{
+	text-align:right;
+ }
+
+td {
 	padding:15px;
+	border-radius: 25px;
+  background-color:hsla(240,15%,70%,0.2);
 }
