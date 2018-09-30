@@ -1,15 +1,15 @@
 ﻿.btn{opacity: 1;}
 
 .btn:hover{opacity: 0.6}
-	
+
 body{
-	background-image: url("resources/backgrounda.png");
+	background-image: url("resources/background.png");
 	background-position: center;
 	background-repeat: no-repeat;
 	background-size: cover;
 	position: relative;
-	font-family:Arial, Helvetica, serif;	
-} 
+	font-family:Arial, Helvetica, serif;
+}
 
 #main{
 	width: 100%;
