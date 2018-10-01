@@ -69,11 +69,11 @@ td {
 .tooltip .tooltiptext {
     visibility: hidden;
     width: 240px;
-    background-color: black;
-    color: #fff;
-    text-align: center;
+    background-color: white;
+    color: black;
+    text-align: left;
     border-radius: 6px;
-    padding: 5px 0;
+    padding: 15px;
     position: absolute;
     z-index: 1;
     bottom: 150%;
@@ -89,7 +89,7 @@ td {
     margin-left: -5px;
     border-width: 5px;
     border-style: solid;
-    border-color: black transparent transparent transparent;
+    border-color: white transparent transparent transparent;
 }
 
 .tooltip:hover .tooltiptext {
