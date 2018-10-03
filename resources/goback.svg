@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Svg Vector Icons : http://www.onlinewebfonts.com/icon -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   x="0px"
+   y="0px"
+   viewBox="0 0 556.51935 3296.3389"
+   enable-background="new 0 0 1000 1000"
+   xml:space="preserve"
+   id="svg8"
+   sodipodi:docname="goforward.svg"
+   width="556.51935"
+   height="3296.3389"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)"><defs
+   id="defs12"><filter
+     inkscape:label="Channel Transparency"
+     style="color-interpolation-filters:sRGB"
+     id="filter8572"><feColorMatrix
+       values="1 0 0 0 0 0 1 0 0 0 0 0 1 0 0 -1 0.5 0.5 0.26 0 "
+       in="SourceGraphic"
+       result="colormatrix"
+       id="feColorMatrix8568" /><feComposite
+       in="colormatrix"
+       in2="SourceGraphic"
+       operator="in"
+       result="composite1"
+       id="feComposite8570" /></filter></defs><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="1920"
+   inkscape:window-height="1001"
+   id="namedview10"
+   showgrid="false"
+   inkscape:zoom="0.236"
+   inkscape:cx="314.27661"
+   inkscape:cy="1853.6779"
+   inkscape:window-x="-9"
+   inkscape:window-y="-9"
+   inkscape:window-maximized="1"
+   inkscape:current-layer="svg8" />
+<metadata
+   id="metadata2"> Svg Vector Icons : http://www.onlinewebfonts.com/icon <rdf:RDF><cc:Work
+     rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+       rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata>
+<g
+   id="g6"
+   transform="matrix(-0.86555823,0,0,2.8030093,711.0388,246.66482)"
+   style="fill:#808080;filter:url(#filter8572)"><path
+     d="M 767.9,499.9 291.6,10 232.2,71.3 648.8,500 232.1,928.7 291.6,990 Z"
+     id="path4"
+     inkscape:connector-curvature="0"
+     style="fill:#808080" /></g>
+</svg>
